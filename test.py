@@ -8,3 +8,6 @@ for database in DATABASES:
 for database in CDC_DATABASES:
     for x in range(len(database)):
         print(database[x])
+
+
+        #teste2 
